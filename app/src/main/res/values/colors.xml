@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="BG_Color">#1C1C1C</color>
+    <color name="Num_Btn_Color">#505050</color>
+    <color name="TopRow_Color">#D4D4D2</color>
+    <color name="RightMost_Col_Color">#FF9500</color>
 </resources>
