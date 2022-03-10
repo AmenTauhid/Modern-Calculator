@@ -20,4 +20,6 @@
     <string name="_0">0</string>
     <string name="decimal">.</string>
     <string name="equal_to">=</string>
+    <string name="MultiplyMain">*</string>
+    <string name="DivideMain">/</string>
 </resources>
