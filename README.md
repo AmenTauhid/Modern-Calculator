@@ -8,7 +8,7 @@
 ## Usage
 
 ```sh
-Just download the code fil, extract it and run it on android studio.
+Just download the code file, extract it and run it on android studio.
 ```
 
 ## Author
