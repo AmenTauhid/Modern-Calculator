@@ -5,12 +5,6 @@
 
 > A modern looking calculator to help you out in your daily basis calculation. Functions provided are addition, subtraction, division and multiplication with an all clear function to clear the calculation.
 
-## Install
-
-```sh
-Just download the code file and run it on android studio.
-```
-
 ## Usage
 
 ```sh
